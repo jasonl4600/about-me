@@ -20,3 +20,28 @@
 
 8. Weight Lifting
 
+## List of Food I Like
+* Pizza
+
+* Ramen
+
+* Burgers
+
+* Pho
+
+* Fries
+
+* Steak
+
+* Fried Chicken
+---
+## List of Drinks I Like
+* Coke
+
+* Sprite
+
+* Water
+
+* Apple Cider
+
+* Lemonade
